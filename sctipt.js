@@ -9,7 +9,7 @@ const state = {
   locked: false
 };
 
-const DISCORD_URL = 'https://discord.gg/REPLACE_ME';
+const DISCORD_URL = 'https://discord.gg/vpluz';
 const QR_PATH = 'assets/discord-qr.png';
 
 function resetScores() {
